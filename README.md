@@ -1,5 +1,5 @@
 Retro Realm - E-commerce UI Project
-Student Name & ID: Karl Ryan Espiritu - 2023-2110581
+Student Name & ID: Shanen Miles Punctual - 2023 - 2110477
 
 Project Description
 Retro Realm is an e-commerce store that specializes in vintage and retro-themed products, including toys, antiques, and memorabilia. The store aims to provide a nostalgic shopping experience for enthusiasts and collectors who appreciate classic items from the past. The overall theme of the app reflects a retro aesthetic, combining vibrant colors and classic design elements to create an inviting atmosphere for users.
